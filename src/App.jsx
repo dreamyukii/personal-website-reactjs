@@ -1,10 +1,9 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './App.css'
-import NavBar from "./component/NavBar"
+import AboutMe from './component/AboutMe';
 
 function App() {
   return (
-      <NavBar/>
+      <AboutMe/>
   );
 }
 export default App;
